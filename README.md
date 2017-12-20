@@ -1,4 +1,4 @@
-# 蔡梦杰
+# 黄其强
 
 ## 安卓开发工程师
 
@@ -43,6 +43,9 @@
 
 ## 技能专长
 
+
+等待完善
+
 以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
 
 ### 框架
@@ -52,7 +55,6 @@
 - [Retrofit](https://github.com/square/retrofit)^†^
 - [Gson](https://github.com/google/gson)^†^
 - [Glide](https://github.com/bumptech/glide)^†^
-- [Dagger2](https://github.com/google/dagger)
 
 
 ## 教育经历
