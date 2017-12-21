@@ -9,8 +9,8 @@
 
 
 ## 自我描述
-
- 等待编写
+本人做事认真负责，为人友善，工作经验丰富，从接触Android应用开发至今已超过5年之多。
+依旧努力学习新知识不断的应用到项目中，始终相信学如逆水行舟，不进则退，凡事预则立，不预则废
 
 
 ## 工作经验
@@ -25,9 +25,9 @@
 
 ### ** Android 开发工程师  ** [福州思灿科技有限公司]
 
-* 2015/4 — 2015/11 *
+*2015/4 — 2015/11* 
 
-其主要经历如下：
+其主要职责如下：
 
 * 担任手机APP开发组（iOS端和Android端）的组长;
 * 参负责Android端 编写代码、单元测试、调试和上架。
@@ -36,7 +36,7 @@
 
 ### ** 高级 Android 开发工程师** [福建北斗星河通信有限公司](http://www.beidouxh.cn/)
 
-* 2016/1 - 今 *
+*2016/1 - 今*
 
 其主要职责如下：
 
@@ -46,30 +46,58 @@
 ## 技能专长
 
 
-等待完善
+以下都是我平时用过或熟悉的编程语言、框架、软件及工具
+### 编程语言
 
-以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
+- [Java](https://www.java.com)
+- [Kotlin](http://kotlinlang.org)
+- [Shell](http://www.linuxshell.it)
+- [JavaScript](https://www.javascript.com)
+- [HTML](https://www.w3.org/html)
 
 ### 框架
 
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
-- [EventBus](https://github.com/greenrobot/EventBus)^†^
-- [Retrofit](https://github.com/square/retrofit)^†^
-- [Gson](https://github.com/google/gson)^†^
-- [Glide](https://github.com/bumptech/glide)^†^
+- [Retrofit](https://github.com/square/retrofit)
+- [OkHttp](http://square.github.io/okhttp/)
+- [Volley](https://github.com/google/volley)
+- [Xutils](https://github.com/wyouflf/xUtils3)
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- [EventBus](https://github.com/greenrobot/EventBus)
+- [Gson](https://github.com/google/gson)
+- [FastJson](https://github.com/alibaba/fastjson)
+- [BRVAH](http://www.recyclerview.org/)
+- [Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+- [Greendao](http://greenrobot.org/greendao/)
+- [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+- [Glide](https://github.com/bumptech/glide)
 
+### 工具软件
+
+- [Mac OS X](http://apple.com/macosx)
+- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
+- [Alfred 3](https://www.alfredapp.com)
+- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
+- [sublime text ](https://www.sublimetext.com/)
+- [Git](https://git-scm.com)
+- [tortoisesvn](https://tortoisesvn.net/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea)
+- [Eclipse](https://www.eclipse.org/downloads/)
 
 ## 教育经历
 
-* 2011/09--2014/07 * [福建师范大学](http://www.fjnu.edu.cn) 计算机网络游戏开发 大专
+* 2011/09--2014/07  [福建师范大学](http://www.fjnu.edu.cn) 计算机网络游戏开发 大专
 
-* 2015/03—2017/07 * [安徽大学](http://www.ahu.edu.cn/) 计算机科学与技术(函授) 本科
+* 2015/03—2017/07  [安徽大学](http://www.ahu.edu.cn/) 计算机科学与技术(函授) 本科
 
 ## 兴趣爱好
 
- 折腾.爱折腾.很爱折腾.就是爱折腾 
+乱折腾
 
 ## 项目经验 
-
-等待编写
-
+- [超能易购]http://www.wandoujia.com/apps/com.fjcndz.supertesco
+- [环形自媒体](http://www.wandoujia.com/apps/com.arogo.media)
+- [骑行卫士](http://sj.qq.com/myapp/detail.htm?apkName=com.bdxh.electrombile.customer)
+- [骑行商户](http://sj.qq.com/myapp/detail.htm?apkName=com.bdxh.electrombile.merchant)
+- [渔民助手](http://www.wandoujia.com/apps/com.bdxh.yyzs)
+- [恒大酒店](http://sj.qq.com/myapp/detail.htm?apkName=cn.hengda.hotels)
+- [闪交易](http://sj.qq.com/myapp/detail.htm?apkName=com.syf.syf)
