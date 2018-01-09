@@ -48,15 +48,13 @@
 
 以下都是我平时用过或熟悉的编程语言、框架、软件及工具
 ### 编程语言
-
 - [Java](https://www.java.com)
 - [Kotlin](http://kotlinlang.org)
 - [Shell](http://www.linuxshell.it)
 - [JavaScript](https://www.javascript.com)
 - [HTML](https://www.w3.org/html)
 
-### 框架
-
+### 其他框架
 - [Retrofit](https://github.com/square/retrofit)
 - [OkHttp](http://square.github.io/okhttp/)
 - [Volley](https://github.com/google/volley)
@@ -72,14 +70,14 @@
 - [Glide](https://github.com/bumptech/glide)
 
 ### 工具软件
+- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
 
 - [Mac OS X](http://apple.com/macosx)
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
-- [Alfred 3](https://www.alfredapp.com)
-- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
 - [sublime text ](https://www.sublimetext.com/)
 - [Git](https://git-scm.com)
-- [tortoisesvn](https://tortoisesvn.net/)
+- [tortoises vn](https://tortoisesvn.net/)
+- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
+- [Alfred 3](https://www.alfredapp.com)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [Eclipse](https://www.eclipse.org/downloads/)
 
@@ -91,13 +89,13 @@
 
 ## 兴趣爱好
 
-乱折腾
+爱折腾
 
 ## 项目经验 
-- [超能易购]http://www.wandoujia.com/apps/com.fjcndz.supertesco
+- [超能易购](http://www.wandoujia.com/apps/com.fjcndz.supertesco)
 - [环形自媒体](http://www.wandoujia.com/apps/com.arogo.media)
-- [骑行卫士](http://sj.qq.com/myapp/detail.htm?apkName=com.bdxh.electrombile.customer)
-- [骑行商户](http://sj.qq.com/myapp/detail.htm?apkName=com.bdxh.electrombile.merchant)
+- [骑行卫士](https://www.pgyer.com/OTAi)
+- [骑行商户](https://www.pgyer.com/y6FG)
 - [渔民助手](http://www.wandoujia.com/apps/com.bdxh.yyzs)
 - [恒大酒店](http://sj.qq.com/myapp/detail.htm?apkName=cn.hengda.hotels)
 - [闪交易](http://sj.qq.com/myapp/detail.htm?apkName=com.syf.syf)
