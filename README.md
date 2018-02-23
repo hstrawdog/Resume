@@ -93,9 +93,20 @@
 
 ## 项目经验 
 - [超能易购](http://www.wandoujia.com/apps/com.fjcndz.supertesco)
+- [州州停车](http://zztingche.com/)
 - [环形自媒体](http://www.wandoujia.com/apps/com.arogo.media)
 - [骑行卫士](https://www.pgyer.com/OTAi)
 - [骑行商户](https://www.pgyer.com/y6FG)
+- [闪交易](http://sj.qq.com/myapp/detail.htm?apkName=com.syf.syf)
 - [渔民助手](http://www.wandoujia.com/apps/com.bdxh.yyzs)
 - [恒大酒店](http://sj.qq.com/myapp/detail.htm?apkName=cn.hengda.hotels)
-- [闪交易](http://sj.qq.com/myapp/detail.htm?apkName=com.syf.syf)
+- [爱注册](http://sj.qq.com/myapp/detail.htm?apkName=com.aizhuc.app)
+- [领地Zone](http://sj.qq.com/myapp/detail.htm?apkName=com.mobile.baojun&apkCode=373)
+- [宝骏新能源](http://sj.qq.com/myapp/detail.htm?apkName=com.baojun.newterritory)
+- [环行汽车服务](http://www.arogo.cn/customercasefront/customercasefront_getDetailView.do?customerCaseId=1493062755822)
+- [环行汽车商户](http://www.arogo.cn/customercasefront/customercasefront_getDetailView.do?customerCaseId=1493062755822)
+- [亿刷]
+- [大华E贷]
+- [智能巡检]
+- [维护人员APP]
+- [稽查APP]
