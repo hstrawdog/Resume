@@ -75,9 +75,9 @@
 - [Mac OS X](http://apple.com/macosx)
 - [sublime text ](https://www.sublimetext.com/)
 - [Git](https://git-scm.com)
-- [tortoises vn](https://tortoisesvn.net/)
+- [tortoise svn](https://tortoisesvn.net/)
 - [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
-- [Alfred 3](https://www.alfredapp.com)
+- [Fiddler](https://www.telerik.com/download/fiddler)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [Eclipse](https://www.eclipse.org/downloads/)
 
@@ -103,8 +103,8 @@
 - [爱注册](http://sj.qq.com/myapp/detail.htm?apkName=com.aizhuc.app)
 - [领地Zone](http://sj.qq.com/myapp/detail.htm?apkName=com.mobile.baojun&apkCode=373)
 - [宝骏新能源](http://sj.qq.com/myapp/detail.htm?apkName=com.baojun.newterritory)
-- [环行汽车服务](http://www.arogo.cn/customercasefront/customercasefront_getDetailView.do?customerCaseId=1493062755822)
-- [环行汽车商户](http://www.arogo.cn/customercasefront/customercasefront_getDetailView.do?customerCaseId=1493062755822)
+- [环行汽车服务](http://sj.qq.com/myapp/detail.htm?apkName=com.arogo.arogo)
+- [环行汽车商户](http://sj.qq.com/myapp/detail.htm?apkName=com.arogo.arogomerchant)
 - [亿刷]
 - [大华E贷]
 - [智能巡检]
