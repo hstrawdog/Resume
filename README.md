@@ -94,7 +94,7 @@
 ## 项目经验 
 - [超能易购](http://www.wandoujia.com/apps/com.fjcndz.supertesco)
 - [州州停车](http://zztingche.com/)
-- [环形自媒体](http://www.wandoujia.com/apps/com.arogo.media)
+- [环形自媒体](https://sj.qq.com/myapp/detail.htm?apkName=com.arogo.media)
 - [骑行卫士](https://www.pgyer.com/OTAi)
 - [骑行商户](https://www.pgyer.com/y6FG)
 - [闪交易](http://sj.qq.com/myapp/detail.htm?apkName=com.syf.syf)
