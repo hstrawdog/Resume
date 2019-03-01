@@ -36,12 +36,19 @@
 
 ### ** 高级 Android 开发工程师** [福建北斗星河通信有限公司](http://www.beidouxh.cn/)
 
-*2016/1 - 今*
+*2016/1 - 2018/03*
 
 其主要职责如下：
 
 * 负责Android端代码编写,参与评估android项目周期,框架搭建,测试以及版本迭代 
 
+### ** 高级 Android 开发工程师** [榕基软件](http://www.rongji.com/)
+
+*2018/03 - 今*
+
+其主要职责如下：
+
+* 负责Android端代码编写,参与评估android项目周期,框架搭建,测试以及版本迭代 
 
 ## 技能专长
 
@@ -71,7 +78,6 @@
 
 ### 工具软件
 - [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
-
 - [Mac OS X](http://apple.com/macosx)
 - [sublime text ](https://www.sublimetext.com/)
 - [Git](https://git-scm.com)
@@ -80,6 +86,7 @@
 - [Fiddler](https://www.telerik.com/download/fiddler)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [Eclipse](https://www.eclipse.org/downloads/)
+- [charles](https://www.charlesproxy.com/)
 
 ## 教育经历
 
