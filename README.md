@@ -40,7 +40,7 @@
 
 其主要职责如下：
 
-* 负责Android端代码编写,参与评估android项目周期,框架搭建,测试以及版本迭代 
+* 负责Android端代码编写,参与评估项目周期,框架搭建,测试以及版本迭代 
 
 ### ** 高级 Android 开发工程师** [榕基软件](http://www.rongji.com/)
 
@@ -48,10 +48,9 @@
 
 其主要职责如下：
 
-* 负责Android端代码编写,参与评估android项目周期,框架搭建,测试以及版本迭代 
+* 负责Android端框架搭建与维护以及代码编写,参与评估项目周期,测试以及版本迭代 
 
 ## 技能专长
-
 
 以下都是我平时用过或熟悉的编程语言、框架、软件及工具
 ### 编程语言
@@ -77,33 +76,33 @@
 - [Glide](https://github.com/bumptech/glide)
 
 ### 工具软件
-- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
-- [Mac OS X](http://apple.com/macosx)
-- [sublime text ](https://www.sublimetext.com/)
-- [Git](https://git-scm.com)
-- [tortoise svn](https://tortoisesvn.net/)
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
-- [Fiddler](https://www.telerik.com/download/fiddler)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [Eclipse](https://www.eclipse.org/downloads/)
+- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [charles](https://www.charlesproxy.com/)
+- [Fiddler](https://www.telerik.com/download/fiddler)
+- [sublime text ](https://www.sublimetext.com/)
+- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
+- [tortoise svn](https://tortoisesvn.net/)
+- [Git](https://git-scm.com)
 
 ## 教育经历
 
-* 2011/09--2014/07  [福建师范大学](http://www.fjnu.edu.cn) 计算机网络游戏开发 大专
-
-* 2015/03—2017/07  [安徽大学](http://www.ahu.edu.cn/) 计算机科学与技术(函授) 本科
+* 2011/09--2014/07  [福建师范大学](http://www.fjnu.edu.cn) 计算机网络游戏开发 
 
 ## 兴趣爱好
 
 爱折腾
 
 ## 项目经验 
+- [拾尚](https://sj.qq.com/myapp/detail.htm?apkName=com.shangwenwan.sww)
 - [超能易购](http://www.wandoujia.com/apps/com.fjcndz.supertesco)
 - [州州停车](http://zztingche.com/)
 - [环形自媒体](https://sj.qq.com/myapp/detail.htm?apkName=com.arogo.media)
 - [骑行卫士](https://www.pgyer.com/OTAi)
 - [骑行商户](https://www.pgyer.com/y6FG)
+- [维护人员APP]
+- [稽查APP]
 - [闪交易](http://sj.qq.com/myapp/detail.htm?apkName=com.syf.syf)
 - [渔民助手](http://www.wandoujia.com/apps/com.bdxh.yyzs)
 - [恒大酒店](http://sj.qq.com/myapp/detail.htm?apkName=cn.hengda.hotels)
@@ -115,5 +114,3 @@
 - [亿刷]
 - [大华E贷]
 - [智能巡检]
-- [维护人员APP]
-- [稽查APP]
