@@ -4,8 +4,8 @@
 
 - 联系电话: +86 136-9689-1101
 - 电子邮箱: qiqiang213@gmail.com
-- 个人博客: 
-- GitHub: [huangqiqiang](https://github.com/huangqiqiang)
+- 个人博客: [CSDN](https://blog.csdn.net/u013148839)
+- GitHub:[huangqiqiang](https://github.com/huangqiqiang)
 
 
 ## 自我描述
