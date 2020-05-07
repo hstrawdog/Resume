@@ -61,20 +61,54 @@
 - [HTML](https://www.w3.org/html)
 
 ### 其他框架
-- [Retrofit](https://github.com/square/retrofit)
-- [OkHttp](http://square.github.io/okhttp/)
-- [Volley](https://github.com/google/volley)
-- [Xutils](https://github.com/wyouflf/xUtils3)
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-- [EventBus](https://github.com/greenrobot/EventBus)
-- [Gson](https://github.com/google/gson)
-- [FastJson](https://github.com/alibaba/fastjson)
-- [BRVAH](http://www.recyclerview.org/)
-- [Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
-- [Greendao](http://greenrobot.org/greendao/)
-- [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
-- [Glide](https://github.com/bumptech/glide)
+* 网络请求
+	- [Retrofit](https://github.com/square/retrofit)
+	- [OkHttp](http://square.github.io/okhttp/)
+	- [Volley](https://github.com/google/volley)
+	- [IoClient](https://github.com/socketio/socket.io-client)
+* 线程
+	- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+	- [EventBus](https://github.com/greenrobot/EventBus)
+*  解析
+	- [Gson](https://github.com/google/gson)
+	- [FastJson](https://github.com/alibaba/fastjson)
+*  列表加载以及刷新
+	- [BRVAH](http://www.recyclerview.org/)
+	- [Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+*  数据库
+	 - [Greendao](http://greenrobot.org/greendao/)
+	 - [Room](https://developer.android.com/training/data-storage/room)
+* 图片类 
+	- [Glide](https://github.com/bumptech/glide)
+	- [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+	- [Luban](https://github.com/Curzibn/Luban)
+	- [Picasso](https://square.github.io/picasso/)
+*  其他
+  - [Xutils](https://github.com/wyouflf/xUtils3)
+  - [Butterknife](https://github.com/JakeWharton/butterknife) 
+  - [Zxing](https://github.com/journeyapps/zxing-android-embedded)
+  - [Bugly](https://bugly.qq.com/v2/report)
+  - [Leakcanary](https://github.com/square/leakcanary)
+  - [Android-skin-support](https://github.com/ximsfei/Android-skin-support)
+* 路由
+	- [Arouter](https://github.com/alibaba/ARouter)  
 
+* 平台
+ -  [友盟](https://www.umeng.com/)
+ -  [MobTech](http://www.mob.com/)
+ -  [微信](https://weixin.qq.com/)
+ -  [支付宝](https://www.alipay.com/)
+ -  [通联](https://www.allinpay.com/)
+ -  [信鸽推送](https://xg.qq.com/)
+ -  [极光推送](https://www.jiguang.cn/)
+ -  [融云](https://www.rongcloud.cn/)
+ -  [环信](https://www.easemob.com/)
+
+* 前端框架
+ - [MUi](https://dev.dcloud.net.cn/mui/)
+ - [Vue](https://cn.vuejs.org/index.html)
+ 
+ 
 ### 工具软件
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)
@@ -89,6 +123,7 @@
 ## 教育经历
 
 * 2011/09--2014/07  [福建师范大学](http://www.fjnu.edu.cn) 计算机网络游戏开发 
+* 2015/03--2017/07  [安徽大学](http://www.ahu.edu.cn) 计算机科学与技术
 
 ## 兴趣爱好
 
