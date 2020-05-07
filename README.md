@@ -86,12 +86,13 @@
 	- [Luban](https://github.com/Curzibn/Luban)
 	- [Picasso](https://square.github.io/picasso/)
 *  其他
-  - [Xutils](https://github.com/wyouflf/xUtils3)
-  - [Butterknife](https://github.com/JakeWharton/butterknife) 
-  - [Zxing](https://github.com/journeyapps/zxing-android-embedded)
-  - [Bugly](https://bugly.qq.com/v2/report)
-  - [Leakcanary](https://github.com/square/leakcanary)
-  - [Android-skin-support](https://github.com/ximsfei/Android-skin-support)
+   - [Xutils](https://github.com/wyouflf/xUtils3)
+   - [Butterknife](https://github.com/JakeWharton/butterknife) 
+   - [Zxing](https://github.com/journeyapps/zxing-android-embedded)
+   - [Bugly](https://bugly.qq.com/v2/report)
+   - [Leakcanary](https://github.com/square/leakcanary)
+   - [Android-skin-support](https://github.com/ximsfei/Android-skin-support)
+  
 * 路由
 	- [Arouter](https://github.com/alibaba/ARouter)  
 
